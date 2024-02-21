@@ -2,3 +2,4 @@
 
 ## Team Members:
 - Jack Donaldson
+- Alex
