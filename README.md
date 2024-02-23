@@ -2,3 +2,5 @@
 
 ## Group Members
 - Jack Donaldson
+- Alex
+- Amy
